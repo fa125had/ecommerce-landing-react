@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 17px;
+}
+
+body {
+  background-color: #2c2c2c;
+  color: #fff;
+  font-family: monospace, sans-serif;
+}/*# sourceMappingURL=App.css.map */
